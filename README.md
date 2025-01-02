@@ -7,7 +7,7 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 
 
 ## Objectives
-Compare the number of movies and TV shows.
-Find the most frequent ratings for both movies and TV shows.
-Analyze content by release years, countries, and durations.
-Group and study content using keywords or specific criteria.
+   * Compare the number of movies and TV shows.
+   * Find the most frequent ratings for both movies and TV shows.
+   * Analyze content by release years, countries, and durations.
+   * Group and study content using keywords or specific criteria.
